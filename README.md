@@ -28,8 +28,6 @@ Key business insights for decision-making
 
 walmart dashboard.pbix – Interactive Power BI report
 
-Walmart Business Problems.pdf – Business questions and objectives
-
 Walmart.csv – Dataset used in analysis
 
 walmart dashboard preview.pdf – Visual preview of the dashboard
